@@ -1,3 +1,7 @@
+О normalize.css
+
+https://htmlacademy.ru/blog/64-about-normalize-css
+
 # normalize.css
 
 <a href="https://github.com/necolas/normalize.css"><img
